@@ -1,0 +1,10 @@
+{
+  "name": "vectors-and-aiz-core",
+  "version": "1.0.0",
+  "description": "empty",
+  "main": "vectors.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serted/Vectors-and-aiz-core.git"
+  }
+}
